@@ -1,53 +1,52 @@
-# Privacy Policy for BSB Lookup Extension
+# Privacy Policy for SmartPTE考试成绩分析助手
 
-Last updated: March 2024
+*Last Updated: Jan 2025
 
-## Introduction
-This privacy policy explains how our BSB Lookup Chrome Extension ("Extension") collects, uses, and protects user data.
+## 1. Introduction
+SmartPTE考试成绩分析助手 ("we", "our", or "the extension") is committed to protecting your privacy. This Privacy Policy explains what information we collect, how we use it, and your rights regarding your data.
 
-## Data We Collect
-The Extension collects the following types of data:
+## 2. Information We Collect
+The extension collects only the minimum data necessary for its core functionality:
 
-1. Location Information
-   - IP addresses for query logging purposes
-   - Used only for service monitoring and improvement
+### a) Score Data
+- PTE Academic test scores from the official Pearson PTE website
+- User-estimated scores for specific question types (WFD and FIB-RW)
+- Analysis results of score breakdowns
 
-2. User Activity
-   - Text selection events to detect 6-digit BSB codes
-   - No keystroke or mouse position tracking
-   - Limited to functionality-essential interactions
+### b) Usage Data
+- Number of analysis attempts per score report (limited to 3 times)
+- User interface preferences and temporary session data
 
-3. Website Content Access
-   - Limited to reading selected text for BSB code detection
-   - Temporary access to display lookup results
-   - No permanent storage of website content
+## 3. How We Use Your Information
+We use the collected information solely for:
+- Analyzing PTE test scores and providing detailed breakdowns
+- Maintaining analysis attempt limits
+- Improving the extension's functionality
+- Ensuring proper technical operation
 
-## How We Use Data
-- To provide BSB code lookup functionality
-- To maintain and improve service quality
-- To generate anonymous usage statistics
+## 4. Data Storage and Security
+- All score data is processed through secure HTTPS connections
+- Analysis results are stored locally on your device using chrome.storage
+- We do not store personally identifiable information
+- We do not share any data with third parties
 
-## Data Storage and Security
-- Data is stored securely on our servers
-- IP addresses and queries are retained for 30 days
-- No personal identification information is stored
-- No data is sold to third parties
-
-## Third-Party Services
-Our Extension communicates only with our dedicated API server to:
-- Lookup BSB information
-- Record anonymous usage statistics
-
-## User Rights
+## 5. Your Rights
 You have the right to:
-- Disable the Extension at any time
-- Control when the Extension is active through popup settings
+- Access your stored data
+- Request deletion of your data
+- Opt-out of data collection by uninstalling the extension
 
-## Changes to Privacy Policy
-We may update this privacy policy as needed. Significant changes will be notified through the Extension's update notes.
+## 6. Data Retention
+- Local data is stored only for the duration necessary for the extension's functionality
+- Analysis records are automatically managed within the 3-attempt limit
+- Data can be cleared by clearing browser data or uninstalling the extension
 
-## Contact
-For privacy-related questions or concerns, please contact: zhanglidong212@gmail.com
+## 7. Changes to Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be reflected in the "Last Updated" date.
 
-## Compliance
-This Extension complies with Chrome Web Store's privacy requirements and data handling best practices. 
+## 8. Contact Us
+For any questions about this Privacy Policy, please contact us at:  
+Email: zhanglidong212@gmail.com
+
+## 9. Consent
+By using the extension, you consent to the collection and use of information as described in this Privacy Policy.
