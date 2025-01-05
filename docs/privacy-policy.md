@@ -25,7 +25,7 @@ We use the collected information solely for:
 - Ensuring proper technical operation
 
 ## 4. Data Storage and Security
-- All score data is processed through secure HTTPS connections
+- All score data is processed through standard HTTP connections
 - Analysis results are stored locally on your device using chrome.storage
 - We do not store personally identifiable information
 - We do not share any data with third parties
