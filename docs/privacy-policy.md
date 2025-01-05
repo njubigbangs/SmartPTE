@@ -1,6 +1,6 @@
 # Privacy Policy for SmartPTE考试成绩分析助手
 
-*Last Updated: Jan 2025*
+*Last Updated: 5th Jan 2025*
 
 ## 1. Introduction
 SmartPTE考试成绩分析助手 ("we", "our", or "the extension") is committed to protecting your privacy. This Privacy Policy explains what information we collect, how we use it, and your rights regarding your data.
